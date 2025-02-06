@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nearclipadjust",
+  "name": "Near Clip Adjust",
+  "description": "调节视锥近截距",
+  "version": "1.0.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["尐贤之辈のTENO"],
+  "credits": "Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
